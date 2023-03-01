@@ -15,7 +15,7 @@ To install and run the project locally, follow these steps:
 
 Clone the repository to your local machine: 
 
-1. git clone `https://github.com/{YOUR-USERNAME}/digital-marketing-2g.git`
+1. git clone `https://github.com/Andrew-Tsegaye/digital-marketing-2g.git`
 2. Navigate to the project directory: `cd digital-marketing-2g`
 3. Install the project dependencies: `npm install`
 4. Run the project locally: `npm start`
